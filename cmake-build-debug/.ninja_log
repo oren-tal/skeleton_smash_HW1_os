@@ -1,0 +1,5 @@
+# ninja log v5
+0	210	1668782355574977762	CMakeFiles/skeleton_smash.dir/smash.cpp.o	6c806bf0d2d87a4b
+210	409	1668782355770977657	CMakeFiles/skeleton_smash.dir/Commands.cpp.o	adf6c1b070d04ee0
+409	570	1668782355934977570	CMakeFiles/skeleton_smash.dir/signals.cpp.o	afc27849d20cbd24
+570	607	1668782355970977550	skeleton_smash	20c31fdb1852a7bf
